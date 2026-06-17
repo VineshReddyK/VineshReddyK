@@ -63,7 +63,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=VineshReddyK&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=VineshReddyK&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VineshReddyK&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=VineshReddyK&theme=tokyonight&hide_border=true" width="500"/>
