@@ -1,22 +1,28 @@
-﻿<h1 align="center">Hi, I'm Vinesh Reddy 👋</h1>
+﻿<div align="center">
 
-<p align="center">
-  <b>Software Engineer · Backend & Cloud-Native Systems · Ford Motor Company</b><br/>
-  <a href="https://vineshreddyk.github.io">Portfolio</a> ·
-  <a href="https://linkedin.com/in/vinesh-reddy-kankanalapally">LinkedIn</a> ·
-  <a href="https://leetcode.com/VINESHREDDYK">LeetCode</a> ·
-  <a href="mailto:vineshreddyy.k@gmail.com">Email</a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=64FFDA&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Vinesh+Reddy+%F0%9F%91%8B;Backend+Engineer+%7C+Cloud+Architect;Java+%7C+Spring+Boot+%7C+AWS+%7C+Kubernetes;Currently+@+Ford+Motor+Company)](https://git.io/typing-svg)
+
+<p>
+  <a href="https://vineshreddyk.github.io"><img src="https://img.shields.io/badge/Portfolio-vineshreddyk.github.io-64ffda?style=for-the-badge&logo=githubpages&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/vinesh-reddy-kankanalapally"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://leetcode.com/VINESHREDDYK"><img src="https://img.shields.io/badge/LeetCode-VINESHREDDYK-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+  <a href="mailto:vineshreddyy.k@gmail.com"><img src="https://img.shields.io/badge/Email-vineshreddyy.k@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
+
+![Profile Views](https://komarev.com/ghpvc/?username=VineshReddyK&style=for-the-badge&color=64ffda&label=PROFILE+VIEWS)
+
+</div>
 
 ---
 
-## About Me
+## 👨‍💻 About Me
 
-- 🏢 Software Engineer at **Codelark LLC**, contracted to **Ford Motor Company**
-- 🎓 M.S. Computer Science — **University of Colorado Denver** (GPA: 3.65)
+- 🏢 **Software Engineer** at Codelark LLC → contracted to **Ford Motor Company**
+- 🎓 **M.S. Computer Science** — University of Colorado Denver (GPA: 3.65)
 - ☁️ **AWS Certified** Solutions Architect & Developer — Associate
-- 🔧 I build high-performance backend systems, cloud-native infrastructure, and RESTful APIs that scale to millions of users
+- 🔧 I build high-performance backend systems, cloud-native infrastructure, and RESTful APIs at enterprise scale
 - 📍 Dallas, Texas (Remote)
+- 📫 Reach me at **vineshreddyy.k@gmail.com**
 
 ---
 
@@ -35,6 +41,7 @@
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-1572B6?style=for-the-badge&logo=cloudflare&logoColor=white)
 
 **Cloud & Infrastructure**
 
@@ -43,6 +50,7 @@
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 
 **Databases**
 
@@ -56,30 +64,35 @@
 
 | Project | Description | Stack |
 |---|---|---|
-| [Cloud-Native Java App](https://github.com/VineshReddyK/VineshReddyK.github.io) | Deployed Spring Boot app on AWS EKS with Terraform & CI/CD — 40% deployment consistency improvement | Java, Spring Boot, Docker, K8s, AWS EKS |
-| [Banking REST API System](https://github.com/VineshReddyK/banking-rest-api-system) | Secure banking APIs with JWT, Swagger docs, and optimized SQL | Java, Spring Boot, Hibernate, MySQL, JWT |
-| [DDoS Attack Detection](https://github.com/VineshReddyK/DDOS-Attack-Detection) | ML models (Random Forest, CNN-LSTM) to classify network traffic — 30% impact reduction | Python, scikit-learn, ML |
+| [☁️ Cloud-Native Java App](https://github.com/VineshReddyK/VineshReddyK.github.io) | Spring Boot app on AWS EKS with Terraform & CI/CD — **40% deployment consistency improvement** | Java, Spring Boot, Docker, K8s, AWS EKS |
+| [🏦 Banking REST API System](https://github.com/VineshReddyK/banking-rest-api-system) | Secure banking APIs with JWT auth, Swagger docs, and optimized SQL | Java, Spring Boot, Hibernate, MySQL, JWT |
+| [🛡️ DDoS Attack Detection](https://github.com/VineshReddyK/DDOS-Attack-Detection) | ML models (Random Forest, CNN-LSTM) to classify network traffic — **30% impact reduction** | Python, scikit-learn, ANN, CNN-LSTM |
 
 ---
 
 ## 🏅 Certifications
 
-- ☁️ **AWS Certified Solutions Architect – Associate** (Jun 2024 – Jun 2027)
-- ☁️ **AWS Certified Developer – Associate** (May 2024 – May 2027)
-- 🔷 **Microsoft Certified: Azure Fundamentals** (Apr 2024)
+| Badge | Certification | Valid |
+|---|---|---|
+| ☁️ | AWS Certified Solutions Architect – Associate | Jun 2024 – Jun 2027 |
+| ☁️ | AWS Certified Developer – Associate | May 2024 – May 2027 |
+| 🔷 | Microsoft Certified: Azure Fundamentals | Apr 2024 |
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VineshReddyK&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VineshReddyK&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-</p>
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=VineshReddyK&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VineshReddyK&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=VineshReddyK&theme=tokyonight&hide_border=true" width="500"/>
+
+</div>
 
 ---
 
-<p align="center">
-  <a href="https://vineshreddyk.github.io">🌐 vineshreddyk.github.io</a> · 
-  <a href="mailto:vineshreddyy.k@gmail.com">📧 vineshreddyy.k@gmail.com</a>
-</p>
+<div align="center">
+  <b>🌐 <a href="https://vineshreddyk.github.io">vineshreddyk.github.io</a> &nbsp;·&nbsp; 📧 <a href="mailto:vineshreddyy.k@gmail.com">vineshreddyy.k@gmail.com</a></b>
+</div>
