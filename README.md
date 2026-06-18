@@ -72,6 +72,18 @@
 
 ---
 
+---
+
+## 🚀 Future Enhancements
+
+| Enhancement | Description | Est. Time |
+|---|---|---|
+| **GitHub trophy showcase** | Add `github-profile-trophy` widget — displays commit streaks, PRs, stars, and followers as trophy icons | 10 min |
+| **Shields.io skill badges** | Replace plain-text skill table with colored shields.io badges for Java, Python, Spring Boot, AWS, Docker, Kubernetes, Kafka | 20 min |
+| **Add ICOP to featured projects** | Add Intelligent Cloud Operations Platform card to the featured projects table — the most technically impressive project | 10 min |
+
+---
+
 <div align="center">
   <b>🌐 <a href="https://vineshreddyk.github.io">vineshreddyk.github.io</a> &nbsp;·&nbsp; 📧 <a href="mailto:vineshreddyy.k@gmail.com">vineshreddyy.k@gmail.com</a></b>
 </div>
