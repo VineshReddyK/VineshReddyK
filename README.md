@@ -9,7 +9,7 @@
   <a href="mailto:vineshreddyy.k@gmail.com"><img src="https://img.shields.io/badge/Email-vineshreddyy.k@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=VineshReddyK&style=for-the-badge&color=64ffda&label=PROFILE+VIEWS)
+![Profile Views](https://visitcount.itsvg.in/api?id=VineshReddyK&label=Profile%20Views&color=6&icon=5&pretty=false)
 
 </div>
 
@@ -72,15 +72,13 @@
 
 ---
 
----
-
 ## 🚀 Future Enhancements
 
-| Enhancement | Description | Est. Time |
-|---|---|---|
-| **GitHub trophy showcase** | Add `github-profile-trophy` widget — displays commit streaks, PRs, stars, and followers as trophy icons | 10 min |
-| **Shields.io skill badges** | Replace plain-text skill table with colored shields.io badges for Java, Python, Spring Boot, AWS, Docker, Kubernetes, Kafka | 20 min |
-| **Add ICOP to featured projects** | Add Intelligent Cloud Operations Platform card to the featured projects table — the most technically impressive project | 10 min |
+| Enhancement | Description |
+|---|---|
+| **GitHub trophy showcase** | Add `github-profile-trophy` widget — displays commit streaks, PRs, stars, and followers as trophy icons |
+| **Shields.io skill badges** | Replace plain-text skill table with colored shields.io badges for Java, Python, Spring Boot, AWS, Docker, Kubernetes, Kafka |
+| **Add ICOP to featured projects** | Add Intelligent Cloud Operations Platform card to the featured projects table — the most technically impressive project |
 
 ---
 
