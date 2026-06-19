@@ -17,7 +17,7 @@
 
 ## 👨‍💻 About Me
 
-- 🏢 **Software Engineer** at Codelark LLC → contracted to **Ford Motor Company**
+- 🏢 **Software Engineer** at Codelark LLC — contracted to **@ Ford Motor Company**
 - 🎓 **M.S. Computer Science** — University of Colorado Denver (GPA: 3.65)
 - ☁️ **AWS Certified** Solutions Architect & Developer — Associate
 - 🔧 I build high-performance backend systems, cloud-native infrastructure, and RESTful APIs at enterprise scale
