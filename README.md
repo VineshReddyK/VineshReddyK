@@ -9,7 +9,7 @@
   <a href="mailto:vineshreddyy.k@gmail.com"><img src="https://img.shields.io/badge/Email-vineshreddyy.k@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
-![Profile Views](https://visitcount.itsvg.in/api?id=VineshReddyK&label=Profile%20Views&color=6&icon=5&pretty=false)
+![Profile Views](https://komarev.com/ghpvc/?username=VineshReddyK&style=flat&color=grey)
 
 </div>
 
@@ -28,41 +28,14 @@
 
 ## 🛠 Tech Stack
 
-**Languages**
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-
-**Backend & Frameworks**
-
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-
-**Cloud & Infra**
-
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-**Databases**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
-
-**CI/CD & Tools**
-
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+| Category | Skills |
+|---|---|
+| **Languages** | Java · Python · JavaScript · SQL · C++ · C |
+| **Backend** | Spring Boot · Hibernate · FastAPI · Apache Kafka · Microservices |
+| **Cloud** | AWS (EC2, S3, RDS, Lambda, DynamoDB) · Docker · Kubernetes · EKS · Terraform |
+| **CI/CD** | GitHub Actions · Jenkins · Maven |
+| **Databases** | MySQL · PostgreSQL · DynamoDB |
+| **Practices** | System Design · Design Reviews · Code Reviews · Observability · Root Cause Analysis |
 
 ---
 
@@ -95,16 +68,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VineshReddyK&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=VineshReddyK&theme=tokyonight&hide_border=true" width="500"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=VineshReddyK&theme=tokyonight&no-frame=true&margin-w=10&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
