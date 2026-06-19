@@ -1,4 +1,4 @@
-﻿<div align="center">
+<div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=64FFDA&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Vinesh+Reddy+%F0%9F%91%8B;Backend+Engineer+%7C+Cloud+Architect;Java+%7C+Spring+Boot+%7C+AWS+%7C+Kubernetes;Currently+@+Ford+Motor+Company)](https://git.io/typing-svg)
 
@@ -28,14 +28,41 @@
 
 ## 🛠 Tech Stack
 
-| Category | Skills |
-|---|---|
-| **Languages** | Java · Python · JavaScript · SQL · C++ · C |
-| **Backend** | Spring Boot · Hibernate · RESTful APIs · Microservices |
-| **Cloud** | AWS (EC2, S3, RDS, Lambda, DynamoDB) · Docker · Kubernetes · EKS · Terraform |
-| **CI/CD** | GitHub Actions · Jenkins · Linux |
-| **Databases** | MySQL · PostgreSQL · DynamoDB |
-| **Practices** | System Design · Design Reviews · Code Reviews · Observability · Root Cause Analysis |
+**Languages**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+
+**Backend & Frameworks**
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+
+**Cloud & Infra**
+
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+**Databases**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
+
+**CI/CD & Tools**
+
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 
 ---
 
@@ -43,6 +70,7 @@
 
 | Project | Description | Stack |
 |---|---|---|
+| [🤖 Intelligent Cloud Operations Platform](https://github.com/VineshReddyK/Intelligent-cloud-operations-platform) | AI-powered microservices platform with Kafka event streaming, DJL anomaly detection, K8s operator with custom CRD, and full observability stack — Prometheus, Grafana, Loki, Tempo | Java 21, Spring Boot 3.5, Kafka, PostgreSQL, DJL, Kubernetes |
 | [☁️ Cloud-Native Java App](https://github.com/VineshReddyK/VineshReddyK.github.io) | Spring Boot app on AWS EKS with Terraform & CI/CD — **40% deployment consistency improvement** | Java, Spring Boot, Docker, K8s, AWS EKS |
 | [🏦 Banking REST API System](https://github.com/VineshReddyK/banking-rest-api-system) | Secure banking APIs with JWT auth, Swagger docs, and optimized SQL | Java, Spring Boot, Hibernate, MySQL, JWT |
 | [🛡️ DDoS Attack Detection](https://github.com/VineshReddyK/DDOS-Attack-Detection) | ML models (Random Forest, CNN-LSTM) to classify network traffic — **30% impact reduction** | Python, scikit-learn, ANN, CNN-LSTM |
@@ -72,13 +100,13 @@
 
 ---
 
-## 🚀 Future Enhancements
+## 🏆 GitHub Trophies
 
-| Enhancement | Description |
-|---|---|
-| **GitHub trophy showcase** | Add `github-profile-trophy` widget — displays commit streaks, PRs, stars, and followers as trophy icons |
-| **Shields.io skill badges** | Replace plain-text skill table with colored shields.io badges for Java, Python, Spring Boot, AWS, Docker, Kubernetes, Kafka |
-| **Add ICOP to featured projects** | Add Intelligent Cloud Operations Platform card to the featured projects table — the most technically impressive project |
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=VineshReddyK&theme=tokyonight&no-frame=true&margin-w=10&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
 
 ---
 
