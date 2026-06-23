@@ -21,7 +21,7 @@
 - 🎓 **M.S. Computer Science** — University of Colorado Denver (GPA: 3.65)
 - ☁️ **AWS Certified** Solutions Architect & Developer — Associate
 - 🔧 I build high-performance backend systems, cloud-native infrastructure, and RESTful APIs at enterprise scale
-- 📍 Dallas, Texas (Remote)
+- 📍 Dallas, Texas, USA · CST (UTC−6) · Remote
 - 📫 Reach me at **vineshreddyy.k@gmail.com**
 
 ---
