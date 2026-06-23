@@ -45,9 +45,8 @@
 | Project | Description | Stack |
 |---|---|---|
 | [🤖 Intelligent Cloud Operations Platform](https://github.com/VineshReddyK/Intelligent-cloud-operations-platform) | AI-powered microservices platform with Kafka event streaming, DJL anomaly detection, K8s operator with custom CRD, and full observability stack — Prometheus, Grafana, Loki, Tempo | Java 21, Spring Boot 3.5, Kafka, PostgreSQL, DJL, Kubernetes |
-| [☁️ Cloud-Native Java App](https://github.com/VineshReddyK/VineshReddyK.github.io) | Spring Boot app on AWS EKS with Terraform & CI/CD — **40% deployment consistency improvement** | Java, Spring Boot, Docker, K8s, AWS EKS |
-| [🏦 Banking REST API System](https://github.com/VineshReddyK/banking-rest-api-system) | Secure banking APIs with JWT auth, Swagger docs, and optimized SQL | Java, Spring Boot, Hibernate, MySQL, JWT |
-| [🛡️ DDoS Attack Detection](https://github.com/VineshReddyK/DDOS-Attack-Detection) | ML models (Random Forest, CNN-LSTM) to classify network traffic — **30% impact reduction** | Python, scikit-learn, ANN, CNN-LSTM |
+| [🏦 Banking REST API System](https://github.com/VineshReddyK/banking-rest-api-system) | Production-grade banking APIs with JWT auth, BCrypt, Redis caching, Kafka events, Swagger docs, and optimized SQL — **15% query response improvement** | Java, Spring Boot, Hibernate, MySQL, JWT |
+| [🛡️ DDoS Attack Detection](https://github.com/VineshReddyK/DDOS-Attack-Detection) | ML ensemble (Random Forest, CNN-LSTM, ANN) to classify network traffic and detect attacks — **30% simulated DDoS impact reduction** | Python, scikit-learn, ANN, CNN-LSTM |
 
 ---
 
