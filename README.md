@@ -7,6 +7,7 @@
   <a href="https://linkedin.com/in/vinesh-reddy-kankanalapally"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://leetcode.com/VINESHREDDYK"><img src="https://img.shields.io/badge/LeetCode-VINESHREDDYK-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
   <a href="mailto:vineshreddyy.k@gmail.com"><img src="https://img.shields.io/badge/Email-vineshreddyy.k@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Timezone-CST%20(UTC--6)-64ffda?style=for-the-badge&logo=clockify&logoColor=white"/>
 </p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=VineshReddyK&style=flat&color=grey)
