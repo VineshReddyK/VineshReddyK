@@ -57,10 +57,10 @@ I focus on the backend: API design, event-driven architecture with Kafka, databa
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=VineshReddyK&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VineshReddyK&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+<img src="profile-summary-card-output/tokyonight/3-stats.svg" height="170"/>
+<img src="profile-summary-card-output/tokyonight/1-repos-per-language.svg" height="170"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=VineshReddyK&theme=tokyonight&hide_border=true" width="500"/>
+<img src="https://streak-stats.demolab.com/?user=VineshReddyK&theme=tokyonight&hide_border=true" width="500"/>
 
 </div>
 
