@@ -1,0 +1,35 @@
+name: Generate Streak Card
+
+on:
+  schedule:
+    # daily, shortly after the summary-cards run
+    - cron: "20 5 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - ".github/scripts/streak_card.py"
+      - ".github/workflows/streak-card.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  streak:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Build streak SVG
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_USER: ${{ github.repository_owner }}
+        run: python3 .github/scripts/streak_card.py
+
+      - name: Commit if changed
+        run: |
+          git config user.name "Vinesh Reddy Kankanalapally"
+          git config user.email "vineshreddyy.k@gmail.com"
+          git add generated/streak.svg
+          git diff --cached --quiet || git commit -m "update streak card"
+          git push

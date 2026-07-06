@@ -60,7 +60,7 @@ I focus on the backend: API design, event-driven architecture with Kafka, databa
 <img src="profile-summary-card-output/tokyonight/3-stats.svg" height="170"/>
 <img src="profile-summary-card-output/tokyonight/1-repos-per-language.svg" height="170"/>
 
-<img src="https://streak-stats.demolab.com/?user=VineshReddyK&theme=tokyonight&hide_border=true" width="500"/>
+<img src="generated/streak.svg" width="495" alt="GitHub contribution streak"/>
 
 </div>
 
