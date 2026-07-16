@@ -4,18 +4,18 @@
   <line x1="330" y1="30" x2="330" y2="165" stroke="#565f89" stroke-opacity=".4"/>
 
   <!-- total contributions -->
-  <text x="82" y="90" text-anchor="middle" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="30" font-weight="700" fill="#7aa2f7">692</text>
+  <text x="82" y="90" text-anchor="middle" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="30" font-weight="700" fill="#7aa2f7">693</text>
   <text x="82" y="120" text-anchor="middle" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="13" fill="#a9b1d6">Total Contributions</text>
   <text x="82" y="142" text-anchor="middle" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="10" fill="#565f89">Jan 1, 2024 - Present</text>
 
   <!-- current streak -->
   <circle cx="247" cy="82" r="42" fill="none" stroke="#bb9af7" stroke-width="4"/>
-  <text x="247" y="93" text-anchor="middle" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="30" font-weight="700" fill="#bb9af7">9</text>
+  <text x="247" y="93" text-anchor="middle" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="30" font-weight="700" fill="#bb9af7">10</text>
   <text x="247" y="150" text-anchor="middle" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="13" font-weight="600" fill="#bb9af7">Current Streak</text>
   <text x="247" y="170" text-anchor="middle" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="10" fill="#565f89">Jul 6 - Present</text>
 
   <!-- longest streak -->
-  <text x="412" y="90" text-anchor="middle" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="30" font-weight="700" fill="#7aa2f7">9</text>
+  <text x="412" y="90" text-anchor="middle" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="30" font-weight="700" fill="#7aa2f7">10</text>
   <text x="412" y="120" text-anchor="middle" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="13" fill="#a9b1d6">Longest Streak</text>
-  <text x="412" y="142" text-anchor="middle" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="10" fill="#565f89">Jun 17 - Jun 25</text>
+  <text x="412" y="142" text-anchor="middle" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="10" fill="#565f89">Jul 6 - Jul 15</text>
 </svg>
