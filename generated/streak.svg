@@ -4,7 +4,7 @@
   <line x1="330" y1="30" x2="330" y2="165" stroke="#565f89" stroke-opacity=".4"/>
 
   <!-- total contributions -->
-  <text x="82" y="90" text-anchor="middle" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="30" font-weight="700" fill="#7aa2f7">764</text>
+  <text x="82" y="90" text-anchor="middle" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="30" font-weight="700" fill="#7aa2f7">773</text>
   <text x="82" y="120" text-anchor="middle" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="13" fill="#a9b1d6">Total Contributions</text>
   <text x="82" y="142" text-anchor="middle" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="10" fill="#565f89">Jan 1, 2024 - Present</text>
 
