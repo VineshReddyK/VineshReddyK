@@ -10,9 +10,9 @@
 
   <!-- current streak -->
   <circle cx="247" cy="82" r="42" fill="none" stroke="#bb9af7" stroke-width="4"/>
-  <text x="247" y="93" text-anchor="middle" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="30" font-weight="700" fill="#bb9af7">69</text>
+  <text x="247" y="93" text-anchor="middle" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="30" font-weight="700" fill="#bb9af7">0</text>
   <text x="247" y="150" text-anchor="middle" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="13" font-weight="600" fill="#bb9af7">Current Streak</text>
-  <text x="247" y="170" text-anchor="middle" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="10" fill="#565f89">Jul 6 - Present</text>
+  <text x="247" y="170" text-anchor="middle" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="10" fill="#565f89">No active streak</text>
 
   <!-- longest streak -->
   <text x="412" y="90" text-anchor="middle" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="30" font-weight="700" fill="#7aa2f7">69</text>
